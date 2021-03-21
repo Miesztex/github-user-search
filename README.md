@@ -1,4 +1,4 @@
-## Built by Mieszko Krzyżański, idea and design by John Smilga @Coding Addict
+#### Built by Mieszko Krzyżański, idea and design by John Smilga @Coding Addict
 
 ## Starter Project
 
